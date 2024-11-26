@@ -2,6 +2,14 @@
 
 > Link to **MyFrenchLearningBlog** Angular Project _(Frontend)_: [Click Here](https://github.com/kjeshang/my-french-learning-blog)
 
+## Software Packages
+
+Below is a list of software packages used for the **MyFrenchLearningBlog** _Frontend_:
+* Tailwind CSS
+* DaisyUI
+* Angular Material
+* Ngx-Markdown
+
 ## Backend Structure
 
 * _**Images Folder**_: Images that are used in "Header", "Footer", "About" and "App" Components.
