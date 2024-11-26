@@ -4,7 +4,7 @@
 
 ## Backend Structure
 
-* _**Images Folder**_: mages that are used in "Header", "Footer", "About" and "App" Components.
+* _**Images Folder**_: Images that are used in "Header", "Footer", "About" and "App" Components.
 * _**About.md**_: General description about me, my background, and professional work history. In addition, share reasons for learning french along with resources that I have used/currently using, which includes resources related to the blog posts that are a part of this website.
 
 |Image Name|Local Image|External Image|
