@@ -14,6 +14,7 @@ Below is a list of software packages used for the **MyFrenchLearningBlog** _Fron
 
 * _**Images Folder**_: Images that are used in "Header", "Footer", "About" and "App" Components.
 * _**About.md**_: General description about me, my background, and professional work history. In addition, share reasons for learning french along with resources that I have used/currently using, which includes resources related to the blog posts that are a part of this website.
+* _**data.json**_: Containing the blog posts that would be imported to the frontend project.
 
 |Image Name|Local Image|External Image|
 |--|--|--|
