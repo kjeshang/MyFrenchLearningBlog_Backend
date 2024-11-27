@@ -6,5 +6,13 @@
         "date":"2024-11-26",
         "reference":"The Complete French Course : Learn French - Beginners by Yohann Coussot (Udemy)",
         "post":"https://raw.githubusercontent.com/kjeshang/MyFrenchLearningBlog_Backend/refs/heads/main/Blog%20Posts/A1/Un%20Voyage%20en%20France%20-%20Première%20Partie/1.Présentez-vous.md"
+    },
+    {
+        "id":2,
+        "name":"Raconter une histoire d'amour : Chapitre 1",
+        "level":"A2",
+        "date":"2024-11-26",
+        "reference":"Learn French - Intermediate level : Master The Past Tenses by Yohann Coussot (Udemy)",
+        "post":"https://raw.githubusercontent.com/kjeshang/MyFrenchLearningBlog_Backend/refs/heads/main/Blog%20Posts/A2/Raconter%20une%20histoire%20d’amour/Chapitre%201.md"
     }
 ]

@@ -1,2 +1,8 @@
-# Chapitre 1
+# Raconter une histoire d'amour
 > Leçon 1 à 3
+
+Je me souviens, c’était un vendredi soir au parc. Le ciel était dégagé, il faisait frais, et il y avait du vent. Je pouvais regarder la lune; c’était très jolie et complète. J’ai eu un jour stressânt à dans mon métier, mais quand je suis arrivé au parc et j’ai commencé pour promener, j’étais heureux. Le parc était situé près un endroit montagneuse.
+
+Au parc, il y avait un pont sur une rivière qui passer dans la forêt. J’ai traversé le point, et ensuite j’ai vu elle. Quand j’ai vu elle, je me suis senti un tonnerre et un éclair dans ma cœur, avec une canicule sur ma visage ! Je me suis dit que il était soir mais quand elle s’est promené à moi, je me suis senti que il était une éclaircie. Elle m’est soufflé. En lui voir pour la première fois était un spectacle. Ensuite, elle a vu moi et il était comme le temps a arrêté ! Je voulais rester là parce que il y a le coup de foudre. 
+
+Le parc était environ un village médiéval qui est légendaire pour faire d’Ostréicole depuis des centaines années. Donc, il y avait beaucoup du sable sur la côte parce que le village est près de la Balnéaire avec plus des vagues. Les inhabitants de ce village auraient une devise prestigieux qui sont « Liberté et Fraternité ». Ils sont très animés mais le village est un peu isolé. Ce n’était pas un village urbain et bruyant comme la ville. Elle marchait sur la rue à ce village, et je marchais sur la rue à ce même village ! Pendant je marchais, je besoin évoquer que j’ai vu aux collines et vallées nombreux. Quand j’étais près du village, j’ai vu des chalets et maisons sur des collines avec des beaux paysages; c’était imperssionnant et un spectacle.
