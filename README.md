@@ -26,10 +26,11 @@ Structure Type = Unstructured
 
 |_Key_ Name|_Value_ Description|Notes|
 |--|--|--|
+|ID|[Number]||
 |Name|[Text]|Blog Post Name|
 |Level|A1, A2, B1, B2|Language Benchmark Level|
-|Link|[Text]|Link of Blog Post Markdown File|
 |Reference|[Text]|Where I got the idea for the blog post (e.g., online learning course exercise, project, website activity, etc.)|
 |Date|[Text]|Date Blog Post was published|
+|Post|[Text]|Link of Blog Post Markdown File|
 
-The blog posts data is saved in a `data.json` file that would be read into the frontend project from this repository. Despite blog posts being segmented by level in this repository, the posts would not segmented in the `data.json` file for the purpose of sequential-seamless import to the frontend.
+The blog posts data is saved in a `data.json` file that would be read into the frontend project from this repository.
