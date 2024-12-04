@@ -14,5 +14,13 @@
         "date":"2024-11-26",
         "reference":"Learn French - Intermediate level : Master The Past Tenses by Yohann Coussot (Udemy)",
         "post":"https://raw.githubusercontent.com/kjeshang/MyFrenchLearningBlog_Backend/refs/heads/main/Blog%20Posts/A2/Raconter%20une%20histoire%20d’amour/Chapitre%201.md"
+    },
+    {
+        "id":3,
+        "name":"Un Voyage en France - Première Partie : 2. Présentez-vous votre famille",
+        "level":"A1",
+        "date":"2024-12-03",
+        "reference":"The Complete French Course : Learn French - Beginners by Yohann Coussot (Udemy)",
+        "post":""
     }
 ]
