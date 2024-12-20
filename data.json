@@ -54,5 +54,13 @@
         "date":"2024-12-04",
         "reference":"The Complete French Course : Learn French - Beginners by Yohann Coussot (Udemy)",
         "post":"https://raw.githubusercontent.com/kjeshang/MyFrenchLearningBlog_Backend/refs/heads/main/Blog%20Posts/A1/Un%20Voyage%20en%20France%20-%20Deuxième%20Partie/1.Un%20conversation%20avec%20ton%20professeur.md"
+    },
+    {
+        "id":8,
+        "name":"Un Voyage en France - Deuxième Partie : 2. Faire du shopping",
+        "level":"A1",
+        "date":"2024-12-19",
+        "reference":"The Complete French Course : Learn French - Beginners by Yohann Coussot (Udemy)",
+        "post":""
     }
 ]
