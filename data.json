@@ -70,5 +70,13 @@
         "date":"2024-12-19",
         "reference":"The Complete French Course : Learn French - Beginners by Yohann Coussot (Udemy)",
         "post":"https://raw.githubusercontent.com/kjeshang/MyFrenchLearningBlog_Backend/refs/heads/main/Blog%20Posts/A1/Un%20Voyage%20en%20France%20-%20Deuxième%20Partie/3.Ta%20routine%20quotidienne%20pendant%20tes%20vacances.md"
+    },
+    {
+        "id":10,
+        "name":"Un Voyage en France - Deuxième Partie : 4. Décrivez-vous ton dernier voyage en France",
+        "level":"A1",
+        "date":"2024-12-19",
+        "reference":"The Complete French Course : Learn French - Beginners by Yohann Coussot (Udemy)",
+        "post":""
     }
 ]
