@@ -102,5 +102,13 @@
         "date":"2025-04-06",
         "reference":"Raston's TEF Canada Expression Ecrite 2025: Chapter 6 - Question 1",
         "post":"https://raw.githubusercontent.com/kjeshang/MyFrenchLearningBlog_Backend/refs/heads/main/Blog%20Posts/B1/Raston's%20Expression%20Ecrite%202025/1.Chapter%206%20-%20Question%201.md"
+    },
+    {
+        "id":14,
+        "name":"Un étudiant étranger remporte un concours de poésie en français",
+        "level":"B1",
+        "date":"2025-04-14",
+        "reference":"Raston's TEF Canada Expression Ecrite 2025: Chapter 6 - Question 2",
+        "post":""
     }
 ]
