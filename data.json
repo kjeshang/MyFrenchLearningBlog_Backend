@@ -94,5 +94,13 @@
         "date":"2024-12-20",
         "reference":"The Complete French Course : Learn French - Beginners by Yohann Coussot (Udemy)",
         "post":"https://raw.githubusercontent.com/kjeshang/MyFrenchLearningBlog_Backend/refs/heads/main/Blog%20Posts/A1/Un%20Voyage%20en%20France%20-%20Deuxième%20Partie/6.Ton%20dernier%20jour%20en%20France.md"
+    },
+    {
+        "id":13,
+        "name":"Un chercheur Canadien découvre une plante médicinale rare en Amazonie",
+        "level":"B1",
+        "date":"2025-04-06",
+        "reference":"Raston's TEF Canada Expression Ecrite 2025: Chapter 6 - Question 1",
+        "post":""
     }
 ]
