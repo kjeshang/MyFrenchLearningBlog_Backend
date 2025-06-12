@@ -1,30 +1,24 @@
 # MyFrenchLearningBlog_Backend
 
-To see live version of My French Learning Blog... [***Click Here***](https://my-french-learning-blog.netlify.app)
+To see live version of My French Learning Blog... [***Click Here***](https://kunal-french-blog.netlify.app/)
 
-> Link to **MyFrenchLearningBlog** Angular Project _(Frontend)_: [Click Here](https://github.com/kjeshang/my-french-learning-blog)
+> Link to **MyFrenchLearningBlog** Angular Project _(Frontend)_: [Click Here](https://github.com/kjeshang/my-french-learning-blog-updated)
 
 ## Software Packages
 
 Below is a list of software packages used for the **MyFrenchLearningBlog** _Frontend_:
 * Tailwind CSS
-* DaisyUI
-* Angular Material
+* Signal Store
+* Luxon
+* Plotly
+* Lodash
 * Ngx-Markdown
 
 ## Backend Structure
 
-* _**Images Folder**_: Images that are used in "Header", "Footer", "About" and "App" Components.
-* _**About.md**_: General description about me, my background, and professional work history. In addition, share reasons for learning french along with resources that I have used/currently using, which includes resources related to the blog posts that are a part of this website.
-* _**data.json**_: Containing the blog posts that would be imported to the frontend project.
+The data in the following files that would be read into the frontend project from this repository.
 
-|Image Name|Local Image|External Image|
-|--|--|--|
-|purpose_logo|[Repo Link](Images/purpose_image.jpg)|[URL](https://media.istockphoto.com/id/1455207009/vector/francais-megaphone-with-language-doodle-bubble.jpg?s=612x612&w=0&k=20&c=TQ_lDap11NUWFQEzVcau0wbNonceSEw6vguJm67UZ0o=)|
-
-### Blog Section
-
-Structure Type = Unstructured
+### _**data.json**_: Contains the blog posts data as well as links to the actual blog posts.
 
 |_Key_ Name|_Value_ Description|Notes|
 |--|--|--|
@@ -35,4 +29,21 @@ Structure Type = Unstructured
 |Date|[Text]|Date Blog Post was published|
 |Post|[Text]|Link of Blog Post Markdown File|
 
-The blog posts data is saved in a `data.json` file that would be read into the frontend project from this repository.
+### _**certifications.json**_: Contains french certifications earned and links to the actual certificates.
+
+
+|_Key_ Name|_Values_|Description|
+|--|--|--|
+|Busuu|Name [Text], Link [Text]|Name of Certification, Link to Certificate|
+|Udemy|Name [Text], Link [Text]|Name of Certification, Link to Certificate|
+
+### _**career_data.json**_: Containing Canadian work experience data, such as job title, company, location, etc.
+
+|_Key_ Name|_Value_ Description|Notes|
+|--|--|--|
+|Date|[Text]|Time Period of Employment|
+|Position|[Text]|Job Title|
+|Company|[Text]|Name of Company|
+|Location|[Text]|Company Address|
+
+
